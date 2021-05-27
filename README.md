@@ -1,0 +1,2 @@
+# OpenSR
+a screen recorder
